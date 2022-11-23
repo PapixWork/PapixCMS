@@ -37,8 +37,10 @@ Several changes have been made in order to improve performance and security.
 
 8º: Login to your account and go to the Administration option via the menu after login and in General settings click on Edit site information and put your server name.
 
+
 ### Use Thematic
 1º: Open /config.php and on line 31 change 0 to 1 in christmas value.
+
 
 ### Use Fake Statistics
 1º: Open /config.php and on line 27 and 28 change false to true in fake_stats_geral and fake_stats_guild.
@@ -51,6 +53,7 @@ define(“FAKE_STATS_GERAL“, “2“);
 define(“FAKE_STATS_GUILD“, “2“);
 
 In this example if you put 2 the actual numbers are multiplied by 2 (if there are 5 accounts it will show 10 in the statistics and the same for the number of guilds).
+
 
 ### Add New Languages
 In this example I will add the Portuguese language (PT) to the CMS.
@@ -65,6 +68,7 @@ In this example I will add the Portuguese language (PT) to the CMS.
 ![](https://i.epvpimg.com/E4Vncab.png)
 
 Done, your new language has been added to the CMS.
+
 
 ### Add New Themes
 
