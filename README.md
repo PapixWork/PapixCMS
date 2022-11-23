@@ -6,6 +6,8 @@ The goal of this project was to make a quality website available for free to eve
 Several changes have been made in order to improve performance and security.
 
 ## Documentation
+[Changelog](https://github.com/papix2020/PapixCMS#changelog "Changelog")
+
 [Setup](https://github.com/papix2020/PapixCMS#setup "Setup")
 [Use Thematic](https://github.com/papix2020/PapixCMS#use-thematic "Use Thematic")
 [Use Fake Statistics](https://github.com/papix2020/PapixCMS#use-fake-statistics "Use Fake Statistics")
