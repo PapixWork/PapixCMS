@@ -1,0 +1,10 @@
+{
+   "settings":{
+      "default":"1"
+   },
+   "themes":{
+      "1":"Theme 1",
+      "2":"Theme 2",
+      "3":"Theme 3"
+   }
+}
