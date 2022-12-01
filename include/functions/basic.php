@@ -1265,6 +1265,7 @@
 	function getAccountsTotalNumber()
 	{
 		global $database;
+		global $fake_stats_geral;
 		
 		$stmt = $database->runQueryAccount("SELECT count(*) FROM account"); 
 		$stmt->execute(); 
