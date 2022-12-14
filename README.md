@@ -58,6 +58,7 @@ Several changes have been made in order to improve performance and security.
  
 ##### Example
 define(“FAKE_STATS_GERAL“, “2“);
+
 define(“FAKE_STATS_GUILD“, “2“);
 
 In this example if you put 2 the actual numbers are multiplied by 2 (if there are 5 accounts it will show 10 in the statistics and the same for the number of guilds).
